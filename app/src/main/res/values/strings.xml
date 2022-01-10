@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TechBulls</string>
+    <string name="Title_name">Title : %s</string>
+    <string name="txt_type">Type : %s</string>
+    <string name="txt_year">Year : %s</string>
+    <string name="txt_search_movie">"Search for movie "</string>
+    <string name="btn_search">Search</string>
+</resources>
